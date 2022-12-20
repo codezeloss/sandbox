@@ -1,0 +1,13 @@
+{
+  "current": "Some Preset",
+  "presets": {
+    "Default": {
+      "body_text": "#ff0000",
+      "heading_font": "roboto_n4"
+    },
+    "Preset 2": {
+      "body_text": "#00ff00",
+      "heading_font": "serif"
+    }
+  }
+}

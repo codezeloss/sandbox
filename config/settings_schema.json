@@ -1,0 +1,43 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "Sandbox",
+    "theme_author": "codezeloss",
+    "theme_version": "0.1.0",
+    "theme_documentation_url": "https://google.com/documentaion",
+    "theme_support_url": "https://google.com/support"
+  },
+  {
+    "name": "Color",
+    "settings": [
+      {
+        "type": "color",
+        "id": "body_text",
+        "label": "Body text",
+        "default": "#000000"
+      }
+    ]
+  },
+  {
+    "name": "Typography",
+    "settings": [
+      {
+        "type": "font_picker",
+        "id": "heading_font",
+        "label": "Heading font",
+        "default": "helvetica_n4"
+      }
+    ]
+  },
+  {
+    "name": "Cart",
+    "settings": [
+      {
+        "type": "number",
+        "id": "shipping_price",
+        "label": "Shipping price",
+        "default": "helvetica_n4"
+      }
+    ]
+  }
+]

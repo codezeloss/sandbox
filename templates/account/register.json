@@ -1,0 +1,11 @@
+{
+  "sections": {
+    "main": {
+      "type": "featured-articles"
+    },
+    "section-2": {
+      "type": "featured-articles"
+    }
+  },
+  "order": ["main"]
+}
